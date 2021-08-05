@@ -1,13 +1,13 @@
 
-age = 21
+Age = 21
 
-if age >= 18 then
+if Age >= 18 then
 
-print("You may enter!")
+    print("You may enter!")
 
 else
 
-print("You can not come in!")
+    print("You can not come in!")
 
 end
 
