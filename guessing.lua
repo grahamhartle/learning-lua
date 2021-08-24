@@ -5,4 +5,3 @@ local number = math.random(100)
 local answer = io.read("*n")
 print(number)
 print(answer)
-
